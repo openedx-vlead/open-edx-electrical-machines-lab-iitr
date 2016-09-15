@@ -1,0 +1,14 @@
+<course advertised_start="anytime" display_name=" " start="&quot;2016-09-15T00:00:00+00:00&quot;">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Speed_Control_of_DC_motor_by_varying_armature_and_field_resistance_"/>
+  <chapter url_name="_Speed_control_of_DC_motor_by_using_Ward-_Leonard_Method_of_speed_control"/>
+  <chapter url_name="Load_Characteristics_of_DC_shunt_generator"/>
+  <chapter url_name="Magnetisation_Characteristics_of_DC_shunt_generator"/>
+  <chapter url_name="Speed_control_of_slipring_Induction_Motor"/>
+  <chapter url_name="Determination_of_Transformer_equivalent_circuit_from_Open_Circuit_and_Short_Circuit_Test"/>
+  <chapter url_name="95d6a076702d4ceba7bba59375fb055d"/>
+  <chapter url_name="b116197b77d440df9e61a002dd428b78"/>
+  <chapter url_name="6b5d0bfc3a3542929cb68be77b265f97"/>
+  <chapter url_name="c4aff7390cdd4ac389d151aab331bc74"/>
+  <wiki slug="IIITH.EEE02.anytime"/>
+</course>
