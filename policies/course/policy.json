@@ -1,0 +1,49 @@
+{
+    "course/course": {
+        "advertised_start": "Anytime", 
+        "course_image": "IIT Roorkee-Electrical Machines Lab.jpg", 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-IITR-EM-course-EM"
+            }
+        }, 
+        "display_name": "Electrical Machines Lab", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "learning_info": [], 
+        "start": "2016-09-29T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
+    }
+}
